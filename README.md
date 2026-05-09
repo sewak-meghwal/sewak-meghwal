@@ -2,7 +2,9 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | Python Enthusiast 
+### 🚀 Full Stack Developer | Python Enthusiast | AI & App Developer
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Django+%26+Django+REST+Framework+Developer;Flutter+App+Developer;Building+AI+and+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -128,9 +130,27 @@ Task management application built with Python for organizing and tracking daily 
 
 ---
 
+## 🌐 Portfolio Website
+
+🌐 Live Portfolio: [https://sewak.onrender.com/](https://sewak.onrender.com/)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
+<a href="https://github.com/sewak-meghwal" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sewak-meghwal-837244232/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://sewak.onrender.com/" target="blank">
+<img align="center" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" height="30" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/sewak-meghwal" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>

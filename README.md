@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | Python Enthusiast | AI & App Developer
+### 🚀 Full Stack Developer | Python Enthusiast 🐍
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 

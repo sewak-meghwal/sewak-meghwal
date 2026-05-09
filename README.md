@@ -16,8 +16,7 @@
 
 * 💻 Passionate Full Stack Developer
 * 🌱 Currently learning **Django REST Framework, Flutter & AI Integration**
-* 🚌 Building a **Punjab Bus Tracking App**
-* 🤖 Working on **AI Chatbot & Automation Projects**
+* 🤖 Working on **AI Chatbot & Automation Project(ChatoraAI)**
 * 🎯 Interested in Web Development, APIs & Mobile Apps
 * ⚡ Love building real-world projects and solving problems
 
